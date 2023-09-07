@@ -50,12 +50,11 @@ docker run --rm \
     composer install --ignore-platform-reqs
 ```
 ```
-vendor/bin/sail artisan key:generate
-```
-```
 vendor/bin/sail up -d
 ```
-
+```
+vendor/bin/sail artisan key:generate
+```
 ## Data Providers File Paths
 
 The data provider files can be found at the following paths within the project:
