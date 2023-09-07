@@ -25,8 +25,6 @@ class UserController extends Controller
 
         } catch (\Exception $exception) {
 
-            dd($exception->getMessage());
-
             Log::error($exception->getMessage());
 
             return response()->json(['error' => 'something went wrong'], 500);
