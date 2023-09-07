@@ -1,0 +1,26 @@
+[
+    {
+        "balance": 300,
+        "currency": "AED",
+        "email": "parent2@parent.eu",
+        "status": 100,
+        "created_at": "22/12/2018",
+        "id": "4fc2-a8d1"
+    },
+    {
+        "balance": 500,
+        "currency": "USD",
+        "email": "parent1@parent.eu",
+        "status": 200,
+        "created_at": "10/05/2020",
+        "id": "8ab7-d2f9"
+    },
+    {
+        "balance": 1000,
+        "currency": "EUR",
+        "email": "customer@gmail.com",
+        "status": 300,
+        "created_at": "05/03/2017",
+        "id": "3e9f-c6a2"
+    }
+]
